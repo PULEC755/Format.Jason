@@ -1,1 +1,15 @@
-
+{
+  "jmeno": "Štěpán Svoboda",
+  "vek": 16,
+  "je_plnolety": false,
+  "poznamka": null,
+  "adresa": {
+    "mesto": "Praha",
+    "ulice": "Paříšská"
+  },
+  "konicky": [
+    "plavání",
+    "hraní her",
+    "lezení"
+  ]
+}
